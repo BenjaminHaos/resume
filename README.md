@@ -1,3 +1,3 @@
 # Benjamin Haos Resume
 
-This repository simply houses my most current resume.
+This repository holds my most current resume.
